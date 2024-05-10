@@ -1,0 +1,18 @@
+body {
+    background-color: #5052c8;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: crimson;
+}
+
+h1 {
+    color: red;
+    font-family: Franklin Gothic Medium, sans-serif;
+}
+
+form inout[type="text"] {
+    width: 30%;
+    margin: 7px;
+    border: 3px solid gold;
+    border-radius: 9px;
+}
