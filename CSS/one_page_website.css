@@ -1,8 +1,9 @@
 body {
-    background-color: #5052c8;
+    background-color: #50c85e;
     font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
     font-size: 2em;
     color: crimson;
+    text-decoration: none;
 }
 
 h1 {
