@@ -50,7 +50,7 @@ form inout[type="text"] {
   /* Modal Content */
   .modal-content {
     position: relative;
-    background-color: #fefefe;
+    background-color: white;
     margin: auto;
     padding: 0;
     width: 75%;
@@ -111,7 +111,7 @@ form inout[type="text"] {
   
   /* Number text (1/6 etc) */
   .numbertext {
-    color: #f2f2f2;
+    color: black;
     font-size: 12px;
     padding: 8px 12px;
     position: absolute;
